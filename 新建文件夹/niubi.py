@@ -4,7 +4,7 @@ print('sb',file=fp)
 fp.close()
 #转义字符
 print('haha','sda\biubiss')
-print('闵\t诗\n雄','\nxiao\rxiao')
+print('梵蒂冈发的','\nxiao\rxiao')
 print('ss\nss','ha\\\\bi')
 #二进制表示
 print(chr(0b100111001011000))
