@@ -1,0 +1,14 @@
+#输出到文件
+fp=open('D:/lalala.txt','a+')
+print('sb',file=fp)
+fp.close()
+#转义字符
+print('haha','sda\biubiss')
+print('闵\t诗\n雄','\nxiao\rxiao')
+print('ss\nss','ha\\\\bi')
+#二进制表示
+print(chr(0b100111001011000))
+print(ord('乘'))
+#dd
+name='haha'
+print(name)
